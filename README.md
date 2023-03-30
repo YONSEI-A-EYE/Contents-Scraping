@@ -40,6 +40,7 @@ To run this application, you need to have the following installed on your machin
 - selenium
 - webdriver-manager
 
+### Getting Started
 #### 1. Git Clone
 Clone the repository.
 ````
