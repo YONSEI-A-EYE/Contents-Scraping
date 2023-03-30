@@ -52,7 +52,7 @@ Once you're there, you can install the required dependencies for the project by 
 ```
 pip install -r requirements.txt
 ```
-### 3. Start Application
+#### 3. Start Application
 ```
 python youtube_v.py
 ```
